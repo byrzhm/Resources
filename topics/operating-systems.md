@@ -1,0 +1,69 @@
+# Operating Systems
+
+## Courses
+
+- [ ] 🧑‍🏫 [6.1810: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2023/) (MIT)
+    - 🧑‍💻 Labs:
+        - [x] [Xv6 and Unix utilities](https://pdos.csail.mit.edu/6.828/2023/labs/util.html)
+        - [x] [system calls](https://pdos.csail.mit.edu/6.828/2023/labs/syscall.html)
+        - [x] [page tables](https://pdos.csail.mit.edu/6.828/2023/labs/pgtbl.html)
+        - [x] [traps](https://pdos.csail.mit.edu/6.828/2023/labs/traps.html)
+        - [x] [Copy-on-Write Fork for xv6](https://pdos.csail.mit.edu/6.828/2023/labs/cow.html)
+        - [x] [Multithreading](https://pdos.csail.mit.edu/6.828/2023/labs/thread.html)
+        - [x] [networking](https://pdos.csail.mit.edu/6.828/2023/labs/net.html)
+        - [x] [locks](https://pdos.csail.mit.edu/6.828/2023/labs/lock.html)
+        - [x] [file system](https://pdos.csail.mit.edu/6.828/2023/labs/fs.html)
+        - [x] [mmap](https://pdos.csail.mit.edu/6.828/2023/labs/mmap.html)
+    - 🧑‍🏫 File system performance and fast crash recovery
+        - lecture notes
+            - [ ] [File system performance and fast crash recovery](https://pdos.csail.mit.edu/6.828/2023/lec/l-journal.txt)
+        - readings
+            - [ ] [Journaling the Linux ext2fs Filesystem (1998)](https://pdos.csail.mit.edu/6.828/2023/readings/journal-ext2fs.html)
+    - 🧑‍🏫 Virtual memory for applications
+        - lecture notes
+            - [ ] [Virtual memory for applications](https://pdos.csail.mit.edu/6.828/2023/lec/l-uservm.txt)
+            - [ ] [baker example](https://pdos.csail.mit.edu/6.828/2023/lec/baker.c)
+            - [ ] [slides](https://pdos.csail.mit.edu/6.828/2023/lec/l-uservm.pdf)
+        - readings
+            - [ ] [Virtual Memory Primitives for User Programs (1991)](https://pdos.csail.mit.edu/6.828/2023/readings/appel-li.pdf)
+    - 🧑‍🏫 OS Organization
+        - lecture notes
+            - [ ] [OS Organization](https://pdos.csail.mit.edu/6.828/2023/lec/l-organization.txt)
+        - readings
+            - [ ] [The Performance of micro-Kernel-Based Systems (1997)](https://pdos.csail.mit.edu/6.828/2023/readings/microkernel.pdf)
+    - 🧑‍🏫 Virtual Machines 
+        - lecture notes
+            - [ ] [Virtual Machines](https://pdos.csail.mit.edu/6.828/2023/lec/l-vmm.txt)
+        - readings
+            - [ ] [Dune: Safe User-level Access to Privileged CPU Features (2012)](https://pdos.csail.mit.edu/6.828/2023/readings/belay-dune.pdf)
+    - 🧑‍🏫 Kernels and HLL
+        - lecture notes
+            - [ ] [Kernels and HLL](https://pdos.csail.mit.edu/6.828/2023/lec/l-biscuit-slides.pdf)
+        - readings
+            - [ ] [the Biscuit paper (2018)](https://pdos.csail.mit.edu/6.828/2023/readings/biscuit.pdf)
+            - [ ] [FAQ](https://pdos.csail.mit.edu/6.828/2023/lec/faq-biscuit.txt)
+    - 🧑‍🏫 Networking
+        - lecture notes
+            - [ ] [Networking](https://pdos.csail.mit.edu/6.828/2023/lec/l-net.txt)
+        - readings
+            - [ ] [Receive Livelock (1996)](https://pdos.csail.mit.edu/6.828/2023/readings/mogul96usenix.pdf)
+    - 🧑‍🏫 Meltdown
+        - lecture notes
+            - [ ] [Meltdown](https://pdos.csail.mit.edu/6.828/2023/lec/l-meltdown.txt)
+        - readings
+            - [ ] [Meltdown (2018)](https://pdos.csail.mit.edu/6.828/2023/readings/meltdown.pdf)
+    - 🧑‍🏫 Multi-Core scalability and RCU
+        - lecture notes
+            - [ ] [Multi-Core scalability and RCU](https://pdos.csail.mit.edu/6.828/2023/lec/l-rcu.txt)
+        - readings
+            - [ ] [RCU paper (2013)](https://pdos.csail.mit.edu/6.828/2023/readings/rcu-decade-later.pdf)
+            - [ ] [FAQ](https://pdos.csail.mit.edu/6.828/2023/lec/rcu-faq.txt)
+    - 🧑‍🏫 Kernel extensibility
+        - lecture notes
+            - [ ] [Kernel extensibility](https://pdos.csail.mit.edu/6.828/2023/lec/l-extensibility.txt)
+        - readings
+            - [ ] [Intro to eBPF (LWN)](https://lwn.net/Articles/740157/)
+
+## Tutorial
+
+- [ ] 🧑‍💻 [Writing an OS in Rust](https://os.phil-opp.com) (Philipp Oppermann)
