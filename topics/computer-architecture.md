@@ -23,6 +23,9 @@
 - [ ] 🧑‍🏫 [CS 146: Computer Architecture](https://www.eecs.harvard.edu/cs146-246/) (Harvard)
 - [ ] 🧑‍🏫 [Computer Architecture](https://safari.ethz.ch/architecture/fall2023/) (ETH Zürich)
 
+<br>
+
+- [ ] 🧑‍💻 [数字逻辑与计算机组成](https://nju-projectn.github.io/dlco-lecture-note/index.html) (南京大学)
 
 ## Projects
 
