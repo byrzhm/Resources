@@ -42,3 +42,4 @@
 
 - 🎙️ [David Patterson: Computer Architecture and Data Storage](https://www.youtube.com/watch?v=naed4C4hfAg) (Lex Clips)
 - 🎙️ [A New Golden Age for Computer Architecture: History, Challenges and Opportunities](https://www.youtube.com/watch?v=kFT54hO1X8M) (David Patterson)
+- 🎙️ [RISC-V "Rocket Chip" SoC Generator in Chisel - 1st RISC-V Workshop](https://www.youtube.com/watch?v=Ir3h3qWcNlg) (RISC-V International)
