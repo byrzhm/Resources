@@ -31,6 +31,10 @@
 
 ## Other Awesome Resources
 
+- [Learn RISC-V](https://github.com/riscv/learn) (riscv.org)
+
+<br>
+
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning) (Tu V. Tran)
 - [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (Yinmin Zhong)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) (Prakhar Srivastav)
