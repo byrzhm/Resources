@@ -38,7 +38,15 @@
 - [ ] 📄 [Plasticine: A reconfigurable architecture for parallel patterns](https://ieeexplore.ieee.org/document/8192487) (Stanford)
 - [ ] 📄 [Garp: A MIPS Processor with a Reconfigurable Coprocessor](https://ieeexplore.ieee.org/document/624600) (Berkeley)
 
+### Processing in Memory
+
+- [ ] 📄 [Near-Memory Computing: Past, Present, and Future](https://arxiv.org/pdf/1908.02640) (Singh et al.)
+- [ ] 📄 [FPGA-Based Near-Memory Acceleration of Modern Data-Intensive Applications](https://arxiv.org/abs/2106.06433) (Singh et al.)
+- [ ] 📄 [MIMDRAM: An End-to-End Processing-Using-DRAM System for High-Throughput, Energy-Efficient and Programmer-Transparent Multiple-Instruction Multiple-Data Processing](https://arxiv.org/pdf/2402.19080) (Oliveira et al.)
+
 ## Talks
+
+- [ ] 🎙️ [Future Computing Platforms - Talk at Stanford University SystemX Seminar - 08.02.2024](https://www.youtube.com/watch?v=tQhn6Fpw5HU) (Onur Mutlu Lectures)
 
 - 🎙️ [David Patterson: Computer Architecture and Data Storage](https://www.youtube.com/watch?v=naed4C4hfAg) (Lex Clips)
 - 🎙️ [A New Golden Age for Computer Architecture: History, Challenges and Opportunities](https://www.youtube.com/watch?v=kFT54hO1X8M) (David Patterson)
