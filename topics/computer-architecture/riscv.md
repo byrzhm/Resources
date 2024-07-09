@@ -10,5 +10,14 @@
 
 ## Projects
 
+### Chips
+
+- 🛠️ [ultraembedded/riscv](https://github.com/ultraembedded/riscv) (ultraembedded)
+
+<br>
+
 - 🛠️ [BOOM](https://boom-core.org/) (Berkeley)
 
+### Test
+
+- 🧪 [riscv-dv](https://github.com/chipsalliance/riscv-dv) (chipsalliance.org)
