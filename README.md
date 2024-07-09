@@ -2,24 +2,24 @@
 
 ## Topics
 
-- [Git](topics/git.md)
-- [Introduction to Computer Science](topics/introduction-to-cs.md)
-- [Functional Programming](topics/functional-programming.md)
-- [Digital Design](topics/digital-design.md)
-- [Algorithms](topics/algorithms.md)
-- [Programming Languages](topics/programming-languages.md)
-- [Operating Systems](topics/operating-systems.md)
-- [Computer Architecture](topics/computer-architecture.md)
-- [Compiler](topics/compiler.md)
-- [Systems Programming](topics/systems-programming.md)
-- [Parallel Programming](topics/parallel-programming.md)
-- [Distributed Systems](topics/distributed-systems.md)
-- [Security](topics/security.md)
-- [Database System](topics/database-system.md)
-- [Machine Learning](topics/machine-learning.md)
-- [Software Engineering](topics/software-engineering.md)
-- [Web Development](topics/web-development.md)
-- [Miscellaneous](topics/misc.md)
+- [Git](topics/git/README.md)
+- [Introduction to Computer Science](topics/introduction-to-computer-science/README.md)
+- [Functional Programming](topics/functional-programming/README.md)
+- [Digital Design](topics/digital-design/README.md)
+- [Algorithms](topics/algorithms/README.md)
+- [Programming Languages](topics/programming-languages/README.md)
+- [Operating Systems and Virtual Machines](topics/operating-systems-and-virtual-machines/README.md)
+- [Computer Architecture](topics/computer-architecture/README.md)
+- [Compiler](topics/compiler/README.md)
+- [Systems Programming](topics/systems-programming/README.md)
+- [Parallel Programming](topics/parallel-programming/README.md)
+- [Distributed Systems](topics/distributed-systems/README.md)
+- [Security](topics/security/README.md)
+- [Database System](topics/database-systems/README.md)
+- [Machine Learning](topics/machine-learning/README.md)
+- [Software Engineering](topics/software-engineering/README.md)
+- [Web Development](topics/web-development/README.md)
+- [Miscellaneous](topics/misc/README.md)
 
 ## CS Students Also Need Self-Promotions
 
@@ -30,10 +30,6 @@
 - [ ] 📖 [Peak: Secrets from the New Science of Expertise](https://www.amazon.com/Peak-Secrets-New-Science-Expertise-ebook/dp/B011H56MKS) (Anders Ericsson, Robert Pool)
 
 ## Other Awesome Resources
-
-- [Learn RISC-V](https://github.com/riscv/learn) (riscv.org)
-
-<br>
 
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning) (Tu V. Tran)
 - [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) (Yinmin Zhong)

@@ -1,6 +1,4 @@
-# Operating Systems
-
-## Courses
+# Courses
 
 - [ ] 🧑‍🏫 [6.1810: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2023/) (MIT)
     - 🧑‍💻 Labs:
@@ -63,7 +61,3 @@
             - [ ] [Kernel extensibility](https://pdos.csail.mit.edu/6.828/2023/lec/l-extensibility.txt)
         - readings
             - [ ] [Intro to eBPF (LWN)](https://lwn.net/Articles/740157/)
-
-## Tutorial
-
-- [ ] 🧑‍💻 [Writing an OS in Rust](https://os.phil-opp.com) (Philipp Oppermann)
