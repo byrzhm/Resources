@@ -15,3 +15,8 @@
 
 - 🧑‍💻 [fpga4fun](https://www.fpga4fun.com/)
 
+## Tools
+
+- 🛠️ [verilator](https://verilator.org/guide/latest/index.html) (Wilson Snyder)
+- 🛠️ [iverilog](https://steveicarus.github.io/iverilog/) (Stephen Williams)
+- 🛠️ [VCS](https://www.synopsys.com/support/licensing-installation-computeplatforms/installation.html) (synopsys)
