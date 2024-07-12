@@ -6,6 +6,7 @@
 - [RISC-V](riscv.md)
 - [Reconfigurable Architecture](reconfigurable-architecture.md)
 - [Processing in Memory](processing-in-memory.md)
+- [Accelerators](accelerators.md)
 
 ## Talks
 
