@@ -17,6 +17,7 @@
 
 ## Tools
 
+- 🛠️ [chisel](https://github.com/chipsalliance/chisel) (UCB)
 - 🛠️ [verilator](https://verilator.org/guide/latest/index.html) (Wilson Snyder)
 - 🛠️ [iverilog](https://steveicarus.github.io/iverilog/) (Stephen Williams)
 - 🛠️ [VCS](https://www.synopsys.com/support/licensing-installation-computeplatforms/installation.html) (synopsys)
