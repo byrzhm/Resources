@@ -8,6 +8,7 @@
 ## Courses
 
 - [x] 🧑‍🏫 [CS 143](https://web.stanford.edu/class/cs143/) (Stanford)
+- [ ] 🧑‍🏫 [KAIST CS420: Compiler Design](https://github.com/kaist-cp/cs420) (KAIST)
 
 ## Tutorial
 
