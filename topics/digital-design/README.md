@@ -14,6 +14,7 @@
 ## Tutorials
 
 - 🧑‍💻 [fpga4fun](https://www.fpga4fun.com/)
+- ‍🧑‍💻 [Intel® FPGA Design Flow for AMD Xilinx Users](https://www.intel.com/content/www/us/en/docs/programmable/683562/24-1/introduction-to-fpga-design-flow-for-users.html)
 
 ## Tools
 
