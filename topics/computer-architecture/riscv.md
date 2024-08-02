@@ -14,6 +14,10 @@
 
 ## Projects
 
+### Tools
+
+- 🛠️ [chipyard](https://chipyard.readthedocs.io/en/latest/) (UCB)
+
 ### Chips
 
 - 🛠️ [ultraembedded/riscv](https://github.com/ultraembedded/riscv) (ultraembedded)
