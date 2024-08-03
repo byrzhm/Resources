@@ -11,6 +11,7 @@
 ## Tutorials
 
 - [Tutorial on FireSim and Chipyard at ASPLOS 2023](https://fires.im/asplos-2023-tutorial/) (UCB)
+- [OpenPiton Tutorials](https://parallel.princeton.edu/openpiton/tutorials.html) (Princeton)
 
 ## Projects
 
