@@ -3,6 +3,7 @@
 ## Talks
 
 - [x] 🎙️ [Future Computing Platforms - Talk at Stanford University SystemX Seminar - 08.02.2024](https://www.youtube.com/watch?v=tQhn6Fpw5HU) (Onur Mutlu Lectures)
+- [ ] 🎙️ [World Conference Energy Science & Technology Keynote - Intelligent Arch. for Intelligent Machines](https://www.youtube.com/watch?v=2OBdcw-ilQY&list=PL5Q2soXY2Zi8D_5MGV6EnXEJHnV2YFBJl&index=62) (Onur Mutlu Lectures)
 
 ## Papers
 
