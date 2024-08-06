@@ -23,5 +23,5 @@
 
 <br>
 
-- [ ] 🧑‍💻 [数字逻辑与计算机组成](https://nju-projectn.github.io/dlco-lecture-note/index.html) (南京大学)
+- [x] 🧑‍💻 [数字逻辑与计算机组成](https://nju-projectn.github.io/dlco-lecture-note/index.html) (南京大学)
 
