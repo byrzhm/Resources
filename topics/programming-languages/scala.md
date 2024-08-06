@@ -3,7 +3,7 @@
 ## Courses
 
 - 🧑‍🏫 [Scala Specialization](https://www.coursera.org/specializations/scala) (Martin Odersky)
-- 🧑‍🏫 [Effective Programming in Scala]([https://www.coursera.org/learn/scala-akka-reactive](https://www.coursera.org/learn/effective-scala)) (Julien Richard-Foy)
+- 🧑‍🏫 [Effective Programming in Scala](https://www.coursera.org/learn/effective-scala) (Julien Richard-Foy)
 
 ## Talks
 
