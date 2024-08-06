@@ -8,3 +8,4 @@
 ## Talks
 
 - 🎙️ [Functional Programming in Scala](https://www.youtube.com/watch?v=R0jVqeYzs9c) (freeCodeCamp.org)
+- 🎙️ [Working Hard to Keep It Simple](https://www.youtube.com/watch?v=3jg1AheF4n0) (Martin Odersky)
