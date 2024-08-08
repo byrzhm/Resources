@@ -22,3 +22,7 @@
 - 🛠️ [verilator](https://verilator.org/guide/latest/index.html) (Wilson Snyder)
 - 🛠️ [iverilog](https://steveicarus.github.io/iverilog/) (Stephen Williams)
 - 🛠️ [VCS](https://www.synopsys.com/support/licensing-installation-computeplatforms/installation.html) (synopsys)
+
+## Other
+
+- ✨ [Racing the Beam Ray Tracer](https://tomverbeure.github.io/rtl/2018/11/26/Racing-the-Beam-Ray-Tracer.html)
