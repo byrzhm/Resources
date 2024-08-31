@@ -2,6 +2,8 @@
 
 ## Talks
 
+- [ ] 🎙️ [FPGAs are (not) Good at Deep Learning [Invited]](https://www.youtube.com/watch?v=WWCWsub3YkE)
+
 ## Papers
 
 - [ ] 📄 [Plasticine: A reconfigurable architecture for parallel patterns](https://ieeexplore.ieee.org/document/8192487) (Stanford)
