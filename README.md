@@ -1,5 +1,7 @@
 # CS Resources
 
+- [Zotero Chinese Community](https://zotero-chinese.com/)
+
 ## Conferences and Journals
 
 - [TECS: ACM Transactions on Embedded Computing Systems](https://dl.acm.org/journal/tecs)
