@@ -1,5 +1,14 @@
 # CS Resources
 
+## Conferences and Journals
+
+- [TECS: ACM Transactions on Embedded Computing Systems](https://dl.acm.org/journal/tecs)
+- [TRETS: ACM Transactions on Reconfigurable Technology and Systems](https://dl.acm.org/journal/trets)
+
+- [FPGA: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays](https://www.isfpga.org/)
+- [FCCM: Field-Programmable Custom Computing Machines](https://www.fccm.org/)
+- [FPL: Field Programmable Logic and Applications](https://fpl.org/)
+
 ## Topics
 
 - [Git](topics/git/README.md)
