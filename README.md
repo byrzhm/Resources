@@ -1,6 +1,7 @@
 # CS Resources
 
 - [Zotero Chinese Community](https://zotero-chinese.com/)
+- [AI for Grant Writing](https://www.lizseckel.com/ai-for-grant-writing/) / [论文写作提示词](https://mp.weixin.qq.com/s/oXc0wnKTWw_4UgJZFcjhoA)
 
 ## Conferences and Journals
 
